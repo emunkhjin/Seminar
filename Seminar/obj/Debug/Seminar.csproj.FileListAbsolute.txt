@@ -174,3 +174,4 @@ D:\Хичээлтэй холбоотой\Seminar\Seminar\Seminar\bin\Korzh.EasyQ
 D:\Хичээлтэй холбоотой\Seminar\Seminar\Seminar\bin\Korzh.EasyQuery.NET45.dll
 D:\Хичээлтэй холбоотой\Seminar\Seminar\Seminar\bin\Korzh.EasyQuery.Services.Db.NET45.dll
 D:\Хичээлтэй холбоотой\Seminar\Seminar\Seminar\bin\Korzh.Utils.Db.NET45.dll
+D:\Хичээлтэй холбоотой\Seminar\Seminar\Seminar\obj\Debug\Seminar.csprojAssemblyReference.cache

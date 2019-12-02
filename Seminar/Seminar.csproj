@@ -717,6 +717,7 @@
     <Content Include="admin\mdb-addons\mdb-lightbox-ui.html" />
     <Content Include="admin\mdb-addons\preloader.html" />
     <Content Include="admin\products.aspx" />
+    <Content Include="admin\product_view.aspx" />
     <Content Include="admin\register.aspx" />
     <Content Include="admin\WebForm1.aspx" />
     <Content Include="admin\WebForm2.aspx" />
@@ -898,6 +899,13 @@
     </Compile>
     <Compile Include="admin\products.aspx.designer.cs">
       <DependentUpon>products.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\product_view.aspx.cs">
+      <DependentUpon>product_view.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\product_view.aspx.designer.cs">
+      <DependentUpon>product_view.aspx</DependentUpon>
     </Compile>
     <Compile Include="admin\register.aspx.cs">
       <DependentUpon>register.aspx</DependentUpon>

@@ -59,6 +59,15 @@
 
         <div class="card-image" style="background-image: url(https://mdbootstrap.com/img/Photos/Horizontal/Work/4-col/img%20%2814%29.jpg);">
 
+
+
+
+
+
+
+
+
+
           <!-- Content -->
           <a href="#!">
             <div class="text-white d-flex h-100 mask purple-gradient-rgba">

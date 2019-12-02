@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Material Design Bootstrap</title>
+  <title>Ecommerce</title>
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
   <!-- Bootstrap core CSS -->
@@ -32,7 +32,7 @@
         <li class="logo-sn waves-effect">
           <div class="text-center">
             <%--<a href="#" class="pl-0"><img src="img/ecomLOGO.png" class=""></a>--%>
-            <h4 class="text-uppercase font-weight-bold my-4 default-color">Mongolian</br> E-Commerce</h4>
+            <h4 class="text-uppercase font-weight-bold my-4 default-color">Mongolian<br/> E-Commerce</h4>
           </div>
         </li>
         <!--/. Logo -->
@@ -63,14 +63,14 @@
               </div>
             </li>
             <!-- Simple link -->
-            <li><a href="addProduct.aspx" class="collapsible-header waves-effect"><i class=" far fa-bell"></i>
+            <li><a href="addProduct.aspx" class="collapsible-header waves-effect"><i class="fas fa-plus-circle"></i>
                 Бараа нэмэх </a></li>
 
-            <li><a href="#" class="collapsible-header waves-effect"><i class=" fas fa-bolt"></i>
-                Хоосон цэс </a></li>
+              <li><a href="product_view.aspx" class="collapsible-header waves-effect"><i class="fas fa-laptop-code"></i>
+                Бараа харах </a></li>
 
-            <li><a href="#" class="collapsible-header waves-effect"><i class=" fas fa-chart-pie"></i>
-                Хоосон цэс</a></li>
+            <li><a href="addCategory.aspx" class="collapsible-header waves-effect"><i class="fas fa-plus"></i>
+                Ангилал нэмэх </a></li>
 
             <li><a href="#" class="collapsible-header waves-effect"><i class=" far fa-calendar-check"></i>
                 Хоосон цэс</a></li>
@@ -94,7 +94,7 @@
       </div>
       <!-- Breadcrumb-->
       <div class="breadcrumb-dn mr-auto">
-        <p>Dashboard v.5</p>
+        <p>Удирдлагын систем</p>
       </div>
 
       <!--Navbar links-->
@@ -115,17 +115,17 @@
             </a>
           </div>
         </li>
-        <li class="nav-item">
+        <%--<li class="nav-item">
           <a class="nav-link waves-effect"><i class="fas fa-envelope"></i> <span class="clearfix d-none d-sm-inline-block">Холбогдох </span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link waves-effect"><i class="far fa-comments"></i> <span class="clearfix d-none d-sm-inline-block">Тусламж </span></a>
-        </li>
+        </li>--%>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle waves-effect" href="#" id="userDropdown" data-toggle="dropdown"
             aria-haspopup="true" aria-expanded="false">
             <i class="fas fa-user"></i> <span class="clearfix d-none d-sm-inline-block">Profile</span></a>
-          </a>
+          
           <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
             <a class="dropdown-item" href="Logout.aspx">Log Out</a>
             <a class="dropdown-item" href="#">My account</a>
@@ -157,7 +157,7 @@
     <!--Copyright-->
     <div class="footer-copyright py-3 text-center">
       <div class="container-fluid">
-        © 2018 Copyright: <a href="#" target="_blank"> Мөнхжин  </a>
+        © 2019 Copyright: <a href="#" target="_blank"> Мөнхжин  </a>
 
       </div>
     </div>
