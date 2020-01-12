@@ -731,6 +731,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="LICENSE.txt" />
+    <Content Include="user\404.aspx" />
     <Content Include="user\Category.aspx" />
     <Content Include="user\categoryUC.ascx" />
     <Content Include="user\jumbotron.ascx" />
@@ -947,6 +948,13 @@
     <Compile Include="AppCode\Class1.cs" />
     <Compile Include="AppCode\DataAccess.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="user\404.aspx.cs">
+      <DependentUpon>404.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="user\404.aspx.designer.cs">
+      <DependentUpon>404.aspx</DependentUpon>
+    </Compile>
     <Compile Include="user\Category.aspx.cs">
       <DependentUpon>Category.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

@@ -16,7 +16,7 @@ namespace Seminar.user
         
         
         Carts myCart;
-        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\DELL\Desktop\Seminar\Seminar\Seminar\App_Data\hudaldaa.mdf;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Хичээлтэй холбоотой\Seminar\Seminar\Seminar\App_Data\hudaldaa.mdf;Integrated Security=True");
         //int id;
         
         protected void Button1_Click1(object sender, EventArgs e)

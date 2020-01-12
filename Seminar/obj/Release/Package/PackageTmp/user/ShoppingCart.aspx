@@ -8,7 +8,7 @@
 }
     </style>
     <form id="form1" runat="server">
-        <asp:GridView ID="gvShoppingCart" runat="server" AutoGenerateColumns="False" OnRowCancelingEdit="gvShoppingCart_RowCancelingEdit" OnRowDeleting="gvShoppingCart_RowDeleting" OnRowEditing="gvShoppingCart_RowEditing" OnRowUpdating="gvShoppingCart_RowUpdating" OnSelectedIndexChanged="gvShoppingCart_SelectedIndexChanged">
+        <asp:GridView ID="gvShoppingCart" runat="server" AutoGenerateColumns="False" CssClass="table table-hover table-sm table-bordered" OnRowCancelingEdit="gvShoppingCart_RowCancelingEdit" OnRowDeleting="gvShoppingCart_RowDeleting" OnRowEditing="gvShoppingCart_RowEditing" OnRowUpdating="gvShoppingCart_RowUpdating" OnSelectedIndexChanged="gvShoppingCart_SelectedIndexChanged">
             <Columns>
                 <asp:BoundField DataField="product_name" HeaderText="Product Name" ReadOnly="True" />
                 <asp:ImageField DataImageUrlField="product_images" DataImageUrlFormatString="\..\{0}"  HeaderText="Image" ReadOnly="True">

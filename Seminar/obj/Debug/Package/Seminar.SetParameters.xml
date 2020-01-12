@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/" />
+  <setParameter name="connect-Web.config Connection String" value="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Хичээлтэй холбоотой\Seminar\Seminar\Seminar\App_Data\hudaldaa.mdf;Integrated Security=True" />
+  <setParameter name="hudaldaaConnectionString1-Web.config Connection String" value="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\hudaldaa.mdf;Integrated Security=True" />
+</parameters>

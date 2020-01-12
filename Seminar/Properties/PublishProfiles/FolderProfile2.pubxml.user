@@ -13,13 +13,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/21/2019 03:23:52</publishTime>
     </File>
     <File Include="admin/addCategory.aspx">
-      <publishTime>11/21/2019 02:39:58</publishTime>
+      <publishTime>12/05/2019 08:38:20</publishTime>
     </File>
     <File Include="admin/addProduct.aspx">
       <publishTime>11/21/2019 04:00:20</publishTime>
     </File>
     <File Include="admin/admin.Master">
-      <publishTime>04/15/2019 14:15:35</publishTime>
+      <publishTime>12/03/2019 06:43:07</publishTime>
     </File>
     <File Include="admin/css/addons/datatables-select.css">
       <publishTime>04/12/2019 00:47:05</publishTime>
@@ -58,7 +58,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/12/2019 00:47:05</publishTime>
     </File>
     <File Include="admin/dashboard.aspx">
-      <publishTime>04/13/2019 21:25:19</publishTime>
+      <publishTime>11/21/2019 08:17:45</publishTime>
     </File>
     <File Include="admin/font/roboto/Roboto-Bold.eot">
       <publishTime>04/12/2019 00:47:05</publishTime>
@@ -1996,16 +1996,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/14/2019 23:06:16</publishTime>
     </File>
     <File Include="admin/logreg.Master">
-      <publishTime>04/29/2019 17:17:44</publishTime>
+      <publishTime>12/05/2019 08:31:15</publishTime>
     </File>
     <File Include="admin/mdb-addons/mdb-lightbox-ui.html">
-      <publishTime>04/12/2019 00:47:04</publishTime>
+      <publishTime>12/03/2019 06:47:01</publishTime>
     </File>
     <File Include="admin/mdb-addons/preloader.html">
       <publishTime>04/12/2019 00:47:04</publishTime>
     </File>
     <File Include="admin/products.aspx">
       <publishTime>05/08/2019 15:36:51</publishTime>
+    </File>
+    <File Include="admin/product_view.aspx">
+      <publishTime>12/03/2019 06:58:24</publishTime>
     </File>
     <File Include="admin/register.aspx">
       <publishTime>05/01/2019 15:48:05</publishTime>
@@ -2257,16 +2260,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/01/2019 15:04:25</publishTime>
     </File>
     <File Include="App_Data/hudaldaa.mdf">
-      <publishTime>11/21/2019 04:05:52</publishTime>
+      <publishTime>12/19/2019 07:53:33</publishTime>
     </File>
     <File Include="App_Data/hudaldaa_log.ldf">
-      <publishTime>11/21/2019 04:05:52</publishTime>
+      <publishTime>12/19/2019 07:53:33</publishTime>
     </File>
     <File Include="bin/App_Data/hudaldaa.mdf">
-      <publishTime>11/21/2019 04:05:52</publishTime>
+      <publishTime>12/19/2019 07:53:33</publishTime>
     </File>
     <File Include="bin/App_Data/hudaldaa_log.ldf">
-      <publishTime>11/21/2019 04:05:52</publishTime>
+      <publishTime>12/19/2019 07:53:33</publishTime>
     </File>
     <File Include="bin/Korzh.EasyQuery.DataGates.NET45.dll">
       <publishTime>08/09/2019 09:55:28</publishTime>
@@ -2425,13 +2428,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/24/2018 13:38:24</publishTime>
     </File>
     <File Include="bin/Seminar.dll">
-      <publishTime>11/21/2019 04:05:56</publishTime>
+      <publishTime>12/29/2019 21:48:01</publishTime>
     </File>
     <File Include="bin/Seminar.pdb">
-      <publishTime>11/21/2019 04:05:56</publishTime>
+      <publishTime>12/29/2019 21:48:01</publishTime>
     </File>
     <File Include="LICENSE.txt">
       <publishTime>11/18/2019 02:21:38</publishTime>
+    </File>
+    <File Include="user/404.aspx">
+      <publishTime>12/19/2019 07:44:53</publishTime>
     </File>
     <File Include="user/Categories.ascx">
       <publishTime>05/15/2019 01:18:17</publishTime>
@@ -2752,7 +2758,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/15/2019 01:43:43</publishTime>
     </File>
     <File Include="user/product_desc.aspx">
-      <publishTime>11/21/2019 04:03:06</publishTime>
+      <publishTime>12/19/2019 02:40:49</publishTime>
     </File>
     <File Include="user/scss/addons/_datatables-select.scss">
       <publishTime>04/12/2019 19:34:11</publishTime>
@@ -2953,7 +2959,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/19/2019 02:45:35</publishTime>
     </File>
     <File Include="user/ShoppingCart.aspx">
-      <publishTime>05/15/2019 02:39:24</publishTime>
+      <publishTime>12/05/2019 08:41:49</publishTime>
     </File>
     <File Include="user/sidemenu.ascx">
       <publishTime>11/18/2019 05:52:46</publishTime>
@@ -2968,7 +2974,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/24/2019 15:36:37</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/21/2019 04:06:11</publishTime>
+      <publishTime>12/29/2019 21:48:04</publishTime>
     </File>
     <File Include="WebForm1.aspx">
       <publishTime>04/17/2019 14:47:29</publishTime>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="connect-Web.config Connection String" description="connect Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Хичээлтэй холбоотой\Seminar\Seminar\Seminar\App_Data\hudaldaa.mdf;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Хичээлтэй\ холбоотой\\Seminar\\Seminar\\Seminar\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connect']/@connectionString" />
+  </parameter>
+  <parameter name="hudaldaaConnectionString1-Web.config Connection String" description="hudaldaaConnectionString1 Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\hudaldaa.mdf;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Хичээлтэй\ холбоотой\\Seminar\\Seminar\\Seminar\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='hudaldaaConnectionString1']/@connectionString" />
+  </parameter>
+</parameters>
